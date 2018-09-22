@@ -124,3 +124,6 @@ Thumbs.db
 
 # pytest
 .pytest_cache
+
+# kaggle-cli config
+.kaggle-cli/config
